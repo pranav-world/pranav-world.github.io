@@ -114,33 +114,33 @@ header .btn {
 }
 
 .section-1 .screen:nth-child(1) {
-  background: url(../assets/Pics6.jpg);
+  background: url(../files/Pics6.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 .section-1 .screen:nth-child(2) {
-  background: url(../assets/Pics8.jpg);
+  background: url(../files/Pics8.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 .section-1 .screen:nth-child(3) {
-  background: url(../assets/Pics4.jpg);
+  background: url(../files/Pics4.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .section-1 .screen:nth-child(4) {
-  background: url(../assets/Pics1.jpg);
+  background: url(../files/Pics1.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 .section-1 .screen:nth-child(5) {
-  background: url(../assets/Pics5.jpg);
+  background: url(../files/Pics5.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 .section-1 .screen:nth-child(6) {
-  background: url(../assets/Pics4.jpg);
+  background: url(../files/Pics4.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
